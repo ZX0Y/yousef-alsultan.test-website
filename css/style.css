@@ -123,19 +123,19 @@ a{
     border-radius: 5px;
 }
 
-.s-photo:hover {
+.skill-1:hover .s-photo {
     width: 50%;
 }
 
-.s-design:hover {
+.skill-2:hover .s-design:hover {
     width: 45%;
 }
 
-.s-webfront:hover {
+.skill-3:hover .s-webfront:hover {
     width:30%;
 }
 
-.s-writing:hover {
+.skill-4:hover .s-writing:hover {
     width:15%;
 }
 /*nav-2 END*/ 
