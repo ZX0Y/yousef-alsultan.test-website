@@ -77,7 +77,7 @@
     .s-photo{
         -webkit-transition: width .5s ease;
         transition: width .5s ease;
-        width:10%;
+        width:20%;
         background: rgb(23,51,187);
         background: -moz-linear-gradient(90deg, rgba(23,51,187,1) 13%, rgba(15,147,205,1) 39%, rgba(101,127,255,1) 59%, rgba(99,174,255,1) 81%);
         background: -webkit-linear-gradient(90deg, rgba(23,51,187,1) 13%, rgba(15,147,205,1) 39%, rgba(101,127,255,1) 59%, rgba(99,174,255,1) 81%);
@@ -91,7 +91,7 @@
     .s-design {
         -webkit-transition: width .5s ease;
         transition: width .5s ease;
-        width:10%;
+        width:15%;
         background: rgb(69,23,187);
         background: -moz-linear-gradient(90deg, rgba(69,23,187,1) 13%, rgba(50,15,205,1) 45%, rgba(101,127,255,1) 81%, rgba(51,144,245,1) 93%);
         background: -webkit-linear-gradient(90deg, rgba(69,23,187,1) 13%, rgba(50,15,205,1) 45%, rgba(101,127,255,1) 81%, rgba(51,144,245,1) 93%);
@@ -117,7 +117,7 @@
     .s-writing{
         -webkit-transition: width .5s ease;
         transition: width .5s ease;
-        width:10%;
+        width:8%;
         background: rgb(238,174,202);
         background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
         background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
