@@ -75,6 +75,7 @@ a{
 }
 
 .s-photo{
+    -webkit-transition: width .5s ease;
     transition: width .5s ease;
     width:10%;
     background: rgb(23,51,187);
@@ -88,6 +89,7 @@ a{
 }
 
 .s-design {
+    -webkit-transition: width .5s ease;
     transition: width .5s ease;
     width:10%;
     background: rgb(69,23,187);
@@ -100,6 +102,7 @@ a{
 }
 
 .s-webfront {
+    -webkit-transition: width .5s ease;
     transition: width .5s ease;
     width:10%; 
     background: rgb(238,174,202);
@@ -112,6 +115,7 @@ a{
 }
 
 .s-writing{
+    -webkit-transition: width .5s ease;
     transition: width .5s ease;
     width:10%;
     background: rgb(238,174,202);
@@ -153,6 +157,7 @@ a{
     margin-bottom: 20px;
     height: 30vh;
     transform: rotatey(-180deg);
+    -webkit-transition: .5s ease;
     transition: .5s ease;
 }
 
